@@ -1,4 +1,5 @@
 # Numerical-Methods
-#### the code below was made with the logical help of the youtuber Bob Trenwith and i implemented his logic in python 
-#### for more information on what the code does head out to the video in the link below
+#### the code used in the Golden-Section Search Method was made with the help of the youtuber Bob Trenwith 
+#### as i implemented his logic(which is in excel) in python 
+#### for more information on what the code does head out to the video in the links below
 #### https://www.youtube.com/watch?v=67xDd1_pwMQ
