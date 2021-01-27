@@ -13,6 +13,8 @@
 ### 11) Newton's Interpolating Polynomial.
 
 #### Some Of The Above Methods Provide either A solution to an equation or simply just applying the rules on the needed given further explanations in each method's comments 
+
+
 <blockquote>
   <p>The Code Above was built and tested By a single person named Mohammed Zeidan (me), who is a computer science student at the American University Of Science And Technology as of 12/2020. </p>
   <p>This Project Was Developed For Learning Purposes Only</p>
