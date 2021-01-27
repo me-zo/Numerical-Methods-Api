@@ -1,4 +1,3 @@
-import math
 import sympy as sp
 x, y, z = sp.symbols('x y z')
 sp.init_printing()
@@ -40,7 +39,4 @@ for i in range(5):
         elif i < len(FxArr) :  Value += (FxArr[i]/sp.factorial(i))*(XAt-X0)**i
 if Equation == 0:  print("\nThe value of f({0:.3f} ) at x = {1:.3f} is   {2:.5f}\n".format(float(XAt),float(X0), float(Value)))
 
-
-# Finally The program prints the solution as well as the equation it used (if it used one)
-
-F
+# Finally The program prints the solution 
