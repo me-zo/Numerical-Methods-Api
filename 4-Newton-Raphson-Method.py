@@ -1,4 +1,3 @@
-import math
 import sympy as sp
 x, y, z = sp.symbols('x y z')
 sp.init_printing()
@@ -25,6 +24,4 @@ for i in range (n):
           .format(i+1, Xi,FxVal ,drFx , Error)) ; XiPlus1 = Xi - FxVal/drFx
     Error = abs(((XiPlus1 - Xi)/XiPlus1) *100) ; Xi = XiPlus1
     
-# In The End The Program Prints The Output as well as The Percentage of error is between Iterations
-
-Fx
+# In The End The Program Prints The Output as well as The Percentage of error between Iterations
