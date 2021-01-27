@@ -1,4 +1,3 @@
-import math
 import sympy as sp
 x, y, z = sp.symbols('x y z')
 sp.init_printing()
@@ -31,6 +30,5 @@ for i in range(n):
     if Fxl*Fxm < 0 : Xu = Xm
     elif Fxl*Fxm > 0 : Xl = Xm
     
-# In The End The Program Prints The Output and specifies what the new Xm will be as well as The Percentage of error is between Iterations
+# In The End The Program Prints The Output and specifies what the new Xm will be as well as The Percentage of error between Iterations
 
-F
