@@ -1,4 +1,3 @@
-import math
 import sympy as sp
 x, y, z = sp.symbols('x y z')
 sp.init_printing()
@@ -17,7 +16,6 @@ Fx = sp.cos(x)+2*sp.sin(x)+x**2
 
 n = 5
 
-
 print("\n____________________________________")
 print(" Iteration |    Xi     ||   Error "
       "\n------------------------------------")
@@ -32,5 +30,3 @@ for i in range (n):
     Xminus1 = Xi ; Xi = XiPlus1
 
 # In The End The Program Prints The Output as well as The Percentage of error between Iterations
-
-Fx
