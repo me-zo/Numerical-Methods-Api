@@ -1,8 +1,15 @@
-## Numerical-Methods
-### The Methods Implemented in this Project Are:
-#### 1. The Golden-Section Search Method:
-##### the code used in the Golden-Section Search Method was made with the help of the youtuber Bob Trenwith 
-##### as i implemented his logic(which is in excel) in python for more information on what the code does head out to the video in the links below
-##### https://www.youtube.com/watch?v=67xDd1_pwMQ
+# Numerical-Methods-Implemented-in-python
+### In this project i implemented the following Numerical Methods:
+#### 1) Taylor Series.
+#### 2) Bisection Method
+#### 3) False Position Method
+#### 4) Newton-Raphson Method
+#### 5) Secant Method
+#### 6) Mullar's Method
+#### 7) Golden Section Search Method
+#### 8) Newton's Method
+#### 9) Hassian Matrix
+#### 10) Lagrange Interplating Polynomial
+#### 11) Newton's Interpolating Polynomial
 
-#### 2. The Newton's Method:
+###Some Of The Above Methods Provide either A solution to an equation or simply just applying the rules on the needed given further explanations in each method's comments
