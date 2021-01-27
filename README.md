@@ -14,6 +14,7 @@
 
 #### Some Of The Above Methods Provide either A solution to an equation or simply just applying the rules on the needed given further explanations in each method's comments 
 <blockquote>
-  <p>The Code Above was built and tested By a single person named Mohammed Zeidan (me), who is a computer science student at the American University Of Science And Technology as of 27/01/2021 - all rights reserved</p>
+  <p>The Code Above was built and tested By a single person named Mohammed Zeidan (me), who is a computer science student at the American University Of Science And Technology as of 12/2020 </p>
+  <p>Copyright &copy; 2020 - 2021 By Mohammed Zeidan All Rights Reserved</p>
 </blockquote>
 
