@@ -13,7 +13,7 @@
 ### 11) Newton's Interpolating Polynomial.
 
 </br>
-<p>Some Of The Above Methods Provide either A solution to an equation or simply just applying the rules on the needed given further explanations in each method's comments </p>
+<p>Some Of The Above Methods Provide an option of either finding approximate solutions to an equation or just applying the rules on the needed given to get a solution for a single iteration, further explanations in each method's comments </p>
 
 </br></br></br>
 <blockquote>
