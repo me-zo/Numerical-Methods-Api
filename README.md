@@ -12,7 +12,8 @@
 ### 10) Lagrange Interplating Polynomial.
 ### 11) Newton's Interpolating Polynomial.
 
-#### Some Of The Above Methods Provide either A solution to an equation or simply just applying the rules on the needed given further explanations in each method's comments 
+</br>
+<p>Some Of The Above Methods Provide either A solution to an equation or simply just applying the rules on the needed given further explanations in each method's comments </p>
 
 </br></br></br>
 <blockquote>
