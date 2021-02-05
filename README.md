@@ -1,5 +1,5 @@
-# Numerical-Methods-Implemented-In-Python
-## In This Project The Following Numerical Methods Are Implemented :
+# 11 Numerical Methods Implemented In Python
+## In This Project The Following Methods Are Implemented:
 ### <a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Taylor-Series.py" >1) Taylor Series Method. </a></br>
 ### <a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Bisection-Method.py"> 2) Bisection Method. </a></br>
 ### <a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/False-Position-Method.py"> 3) False Position Method. </a></br>
