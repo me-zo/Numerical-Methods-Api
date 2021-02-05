@@ -5,9 +5,9 @@
 ### <a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/3-False-Position-Method.py"> 3) False Position Method. </a></br>
 ### <a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/4-Newton-Raphson-Method.py"> 4) Newton-Raphson Method. </a></br>
 ### <a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/5-Secant-Method.py"> 5) Secant Method. </a></br>
-### 6) Mullar's Method.
-### 7) Golden Section Search Method.
-### 8) Newton's Method.
+### <a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/6-Mullar's-Method.py"> 6) Mullar's Method. </a></br>
+### <a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/7-Golden-Section-Search-Method.py"> 7) Golden Section Search Method. </a></br>
+### <a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/8-Newton's-Method.py"> 8) Newton's Method. </a></br>
 ### 9) Hassian Matrix.
 ### 10) Lagrange Interplating Polynomial.
 ### 11) Newton's Interpolating Polynomial.
