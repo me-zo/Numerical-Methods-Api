@@ -12,7 +12,7 @@
 ### <a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Lagrange-Interpolating-Polynomial.py"> 10) Lagrange Interpolating Polynomial. </a></br>
 ### <a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Newton's-Interpolating-Polynomial.py"> 11) Newton's Interpolating Polynomial. </a></br>
 
-</br></br>
+</br>
 <p>Some Of The Above Methods Provide an option of either finding approximate solutions to an equation or just applying the rules on the needed given to get a solution for a single iteration, further explanations in each method's comments </p>
 
 </br></br></br>
