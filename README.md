@@ -15,10 +15,3 @@
 </br>
 <p>Some Of The Above Methods Provide an option of either finding approximate solutions to an equation or just applying the rules on the needed given to get a solution for a single iteration, further explanations in each method's comments.</p>
 
-</br></br></br></br>
-<blockquote>
-  <p>The code above was built and tested by a single person named Mohammed Zeidan (me), who is a computer science student at the American University Of Science And Technology as of 12/2020. </p>
-  <p>This Project Was Developed For Learning Purposes Only.</p>
-  <p>&copy; 2020 - 2021, Mohammed Zeidan, All Rights Reserved.</p>
-</blockquote>
-
