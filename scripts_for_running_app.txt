@@ -1,0 +1,24 @@
+starting Api
+- uvicorn app.api:fastApi --reload  ==> starting the fast api server
+
+- ip addr | grep eth0   ==> getting the localhost ip address from linux subsystem (take the one after inet)
+
+starting kafka server
+- cd kafka_2.13-2.6.0
+- bin/zookeeper-server-start.sh config/zookeeper.properties
+- bin/kafka-server-start.sh config/server.properties
+
+to test kafka
+- cd kafka_2.13-2.6.0
+- bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning --bootstrap-server localhost:9092
+- bin/kafka-console-producer.sh --topic quickstart-events --bootstrap-server localhost:9092
+
+to stop kafka
+- rm -rf /tmp/kafka-logs /tmp/zookeeper
+
+to run fastapi on linux
+- python3 -m uvicorn main:app --reload
+
+
+ip addr | grep eth0 ==> for ip address in linux
+172.22.189.128:9092
