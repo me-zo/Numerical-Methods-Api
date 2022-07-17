@@ -1,8 +1,7 @@
 import sympy as sp
 from fastapi import APIRouter
 
-from app.bisection.models import RequestBisectionModel, ResultBisectionModel, BisectionIterationModel
-from app.shared_models import DescriptionModel
+from app.bisection.models import RequestBisectionModel, ResultBisectionModel, BisectionIterationModel, DescriptionModel
 
 router = APIRouter(prefix="/bisection")
 

@@ -15,25 +15,38 @@ The whole app is connected to <b> KAFKA </b> for logging usage resembled in the 
 
 ### In This Project The Following Methods Are Implemented in 'main' branch:
 
-<a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Taylor-Series.py" >1) Taylor Series Method. </a><br/>
+<a href="https://github.com/Mezo0099/Numerical-Methods-Api/blob/main/Taylor-Series.py" >1) Taylor Series Method. </a><br/>
 
-<a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Bisection-Method.py">2) Bisection Method. </a><br/>
+<a href="https://github.com/Mezo0099/Numerical-Methods-Api/blob/main/Bisection-Method.py">2) Bisection Method. </a><br/>
 
 
-<a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/False-Position-Method.py">3) False Position Method. </a><br/>
+<a href="https://github.com/Mezo0099/Numerical-Methods-Api/blob/main/False-Position-Method.py">3) False Position Method. </a><br/>
 
-<a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Newton-Raphson-Method.py">4) Newton-Raphson Method. </a><br/>
+<a href="https://github.com/Mezo0099/Numerical-Methods-Api/blob/main/Newton-Raphson-Method.py">4) Newton-Raphson Method. </a><br/>
 
-<a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Secant-Method.py">5) Secant Method. </a><br/>
+<a href="https://github.com/Mezo0099/Numerical-Methods-Api/blob/main/Secant-Method.py">5) Secant Method. </a><br/>
 
-<a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Mullar's-Method.py">6) Mullar's Method. </a><br/>
+<a href="https://github.com/Mezo0099/Numerical-Methods-Api/blob/main/Mullar's-Method.py">6) Mullar's Method. </a><br/>
 
-<a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Golden-Section-Search-Method.py">7) Golden Section Search Method. </a><br/>
+<a href="https://github.com/Mezo0099/Numerical-Methods-Api/blob/main/Golden-Section-Search-Method.py">7) Golden Section Search Method. </a><br/>
 
-<a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Newton's-Method.py">8) Newton's Method. </a><br/>
+<a href="https://github.com/Mezo0099/Numerical-Methods-Api/blob/main/Newton's-Method.py">8) Newton's Method. </a><br/>
 
-<a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Hussian-Matrix.py">9) Hassian Matrix. </a><br/>
+<a href="https://github.com/Mezo0099/Numerical-Methods-Api/blob/main/Hussian-Matrix.py">9) Hassian Matrix. </a><br/>
 
-<a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Lagrange-Interpolating-Polynomial.py">10) Lagrange Interpolating Polynomial. </a><br/>
+<a href="https://github.com/Mezo0099/Numerical-Methods-Api/blob/main/Lagrange-Interpolating-Polynomial.py">10) Lagrange Interpolating Polynomial. </a><br/>
 
-<a href="https://github.com/Mezo0099/Numerical-Methods/blob/main/Newton's-Interpolating-Polynomial.py">11) Newton's Interpolating Polynomial. </a><br/>
+<a href="https://github.com/Mezo0099/Numerical-Methods-Api/blob/main/Newton's-Interpolating-Polynomial.py">11) Newton's Interpolating Polynomial. </a><br/>
+
+
+
+### Output Sample Screenshots :
+
+<img src="https://github.com/Mezo0099/Numerical-Methods-Api/blob/master/Screenshots/bisection-solve.png?raw=true"/>
+
+<img src="https://github.com/Mezo0099/Numerical-Methods-Api/blob/master/Screenshots/bisection-description.png?raw=true"/>
+
+<img src="https://github.com/Mezo0099/Numerical-Methods-Api/blob/master/Screenshots/bisection-responses.png?raw=true"/>
+
+<img src="https://github.com/Mezo0099/Numerical-Methods-Api/blob/master/Screenshots/demo.gif?raw=true"/>
+

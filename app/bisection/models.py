@@ -25,3 +25,8 @@ class RequestBisectionModel(BaseModel):
     x_upper: int
     f_of_x: str
     round_to: Optional[int]
+
+
+class DescriptionModel(BaseModel):
+    description: str
+    tested_symbols: List[str]
